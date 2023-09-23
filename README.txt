@@ -7,9 +7,8 @@ PennKey: dushime
 =: Core Concepts :=
 ===================
 
-- List the four core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
+- List of the four core concepts, the features they implement, and why each feature
+  is an appropriate use of the concept. 
 
   1. 2D Array : I implemented that stores the different coordinates of all the
   bricks to be drawn. It is iterated through to first read out from a file that
@@ -32,19 +31,12 @@ PennKey: dushime
   brick to draw and to catch any exceptions in the level class. I used a buffered
   reader to read the file line by line and extract from it the coordinate.
 
-===============================
-=: File Structure Screenshot :=
-===============================
-- Include a screenshot of your project's file structure. This should include
-  all of the files in your project, and the folders they are in. You can
-  upload this screenshot in your homework submission to gradescope, named 
-  "file_structure.png".
 
 =========================
-=: Your Implementation :=
+=: Implementation :=
 =========================
 
-- Provide an overview of each of the classes in your code, and what their
+- An overview of each of the classes in the code, and what their
   function is in the overall game.
 
  Ball.java is a subclass of the GameObj class, representing the game's ball that
@@ -88,20 +80,3 @@ PennKey: dushime
 
 
 
-- Were there any significant stumbling blocks while you were implementing your
-  game (related to your design, or otherwise)?
- Yes, my extender power up seem to not work, I could not figure it out.
-
-- Evaluate your design. Is there a good separation of functionality? How well is
-  private state encapsulated? What would you refactor, if given the chance?
-
-  The design is just simple, and the private state is enough encapsulated. If given more
-  time, I would have improved the view part and ensured that the private state is maximally
-  encapsulated and worked on some bugs like the extender powerup.
-
-========================
-=: External Resources :=
-========================
-
-- Cite any external resources (images, tutorials, etc.) that you may have used 
-  while implementing your game.
