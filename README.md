@@ -1,8 +1,7 @@
 # BrickBreaker
 
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 1200 Game Project README
-PennKey: dushime
+Game Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ===================
